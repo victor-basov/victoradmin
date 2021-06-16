@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/victoradmin/static/css/main.24c08501.chunk.css",
-    "main.js": "/victoradmin/static/js/main.f770ef1b.chunk.js",
-    "main.js.map": "/victoradmin/static/js/main.f770ef1b.chunk.js.map",
+    "main.js": "/victoradmin/static/js/main.11291081.chunk.js",
+    "main.js.map": "/victoradmin/static/js/main.11291081.chunk.js.map",
     "runtime-main.js": "/victoradmin/static/js/runtime-main.961365ff.js",
     "runtime-main.js.map": "/victoradmin/static/js/runtime-main.961365ff.js.map",
     "static/js/2.33101352.chunk.js": "/victoradmin/static/js/2.33101352.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.961365ff.js",
     "static/js/2.33101352.chunk.js",
     "static/css/main.24c08501.chunk.css",
-    "static/js/main.f770ef1b.chunk.js"
+    "static/js/main.11291081.chunk.js"
   ]
 }
