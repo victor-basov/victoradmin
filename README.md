@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**From the developer: this project was created using React, Material-UI, Recharts, and React Router. Backend is incomplete**
 
 ## Available Scripts
 
